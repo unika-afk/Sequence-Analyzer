@@ -7,7 +7,8 @@
 - Sandhya Gautam
 
 ---
-<center><img src="files/logo.jpg" width=400></center>
+<center><img src="files/logo.jpg" width=400></img></center>
+
 ## DNA Sequence Analyzer
 
 A Python-based application for analyzing DNA sequences with various computational features including nucleotide counting, GC content calculation, motif searching, and visualization.
