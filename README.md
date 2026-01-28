@@ -1,3 +1,5 @@
+
+<center><img src="files/logo.jpg" width=250></center>
 # BICP 201 Mini Project
 
 **Team Name:** USB
@@ -7,7 +9,7 @@
 - Sandhya Gautam
 
 ---
-<center><img src="files/logo.jpg" width=250></center>
+
 
 ## DNA Sequence Analyzer
 
