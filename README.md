@@ -1,5 +1,6 @@
 <p align="center">
-<img src="files/logo.jpg" width=250 text-align="center">
+<img src="files/logo.jpg" width=150 text-align="center">
+   <h1 align="center">Sequence Analyzer</h1>
 </p>
 # BICP 201 Mini Project
 
