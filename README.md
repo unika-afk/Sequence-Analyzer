@@ -1,5 +1,6 @@
-
-<center><img src="files/logo.jpg" width=250 text-align="center"></center>
+<p align="center">
+<img src="files/logo.jpg" width=250 text-align="center">
+</p>
 # BICP 201 Mini Project
 
 **Team Name:** USB
