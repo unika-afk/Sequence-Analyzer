@@ -68,7 +68,7 @@ A Python-based application for analyzing DNA sequences with various computationa
 pip install matplotlib
 ```
 
-3. Download the `dna_analyzer.py` file
+3. Download the `main.py` file
 
 ---
 
@@ -77,7 +77,7 @@ pip install matplotlib
 ### Running the Program
 
 ```bash
-python dna_analyzer.py
+python3 main.py
 ```
 
 ### Menu Options
@@ -134,7 +134,7 @@ Reversed Sequence (Stack): GCATGCGTA
 ```
 dna-sequence-analyzer/
 │
-├── dna_analyzer.py    # Main program file
+├── main.py    # Main program file
 └── README.md          # Project documentation
 ```
 
