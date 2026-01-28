@@ -7,7 +7,7 @@
 - Sandhya Gautam
 
 ---
-![Logo](files/logo.jpg)
+<center><img src="files/logo.jpg" width=250></center>
 
 ## DNA Sequence Analyzer
 
